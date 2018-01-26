@@ -108,13 +108,13 @@ NOTE: HTML5 is the latest addition to the html family, they are mostly used to b
 
 ## Attributes:
 
-- alt: provides an alternative text for images
-- src: provides the source address for images
-- href: provides the link url for anchor tags
-- id: defines a unique id for the element
-- class: defines a class name for your element.
-- style: provides an area for inline styling.
-- title: specifies extra information about the element. Appears as tool tips.
+- `alt`: provides an alternative text for images
+- `src`: provides the source address for images
+- `href`: provides the link url for anchor tags
+- `id`: defines a unique id for the element
+- `class`: defines a class name for your element.
+- `style`: provides an area for inline styling.
+- `title`: specifies extra information about the element. Appears as tool tips.
 
 NOTE: not all attributes are available for every tag.
 
