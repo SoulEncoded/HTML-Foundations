@@ -91,6 +91,31 @@ In this section we will go over the most common tags
 - <main>: defines a area for where the main content should go
 - <section>: used to logically break up the website into sections
 
+## Attributes:
+
+- alt: provides an alternative text for images
+- src: provides the source address for images
+- href: provides the link url for anchor tags
+- id: defines a unique id for the element
+- class: defines a class name for your element.
+- style: provides an area for inline styling.
+- title: specifies extra information about the element. Appears as tool tips.
+
+## Commenting
+
+You can comment your HTML by add left and right arrows. Don't forget the `!` in the first arrow. You can do this multiple line as well.
+
+`<!-- HTML MARK UP -->`
+
 ## Summary:
 
+The above list is not an exhaustive list of html tags and attributes, they are just a collection of tags that I think you will need to hit the ground running. When you have time take a look at the additional resources. There are some good guides out there.
+
 ## Challenges:
+
+1. follow the below designs and create a skeleton
+2. add classes to your elements
+3. use the provided style in the playgrounds folder and link it to your html file.
+
+## Additional Resources:
+- https://www.html-5-tutorial.com/all-html-tags.htm
