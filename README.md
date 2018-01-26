@@ -1,4 +1,4 @@
-# HTML Need To Knows
+# HTML Foundations
 
 In this guide, based on the Pareto principle, I will be showcasing 20% of HTML that you will end up using the most.
 
