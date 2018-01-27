@@ -39,6 +39,8 @@ In this section we will go over the most common tags
 
 NOTE: understanding this section will be really helpful for seo (Search Engine Optimization).
 
+NOTE: understanding this section will be really helpful for seo (Search Engine Optimization).
+
 ### Formatting Tags
 
 - `<div>`: this is a generic container. We will be using this a lot.
@@ -46,6 +48,8 @@ NOTE: understanding this section will be really helpful for seo (Search Engine O
 - `<p>`: this is a paragraph tag that denotes where generic text should live
 - `<span>`: this is an inline block container
 - `<br>`: this break tag creates a line break.
+
+NOTE: you will use the <div> tag a lot. It will be your main tool to create a nice skeleton of your app. Learn how to think in divs.
 
 NOTE: you will use the <div> tag a lot. It will be your main tool to create a nice skeleton of your app. Learn how to think in divs.
 
@@ -59,10 +63,14 @@ NOTE: you will use the <div> tag a lot. It will be your main tool to create a ni
 
 NOTE: you can do all of this with styling too.
 
+NOTE: you can do all of this with styling too.
+
 ### Link and Img Tags:
 
 - `<a>`: The anchor tag is the base for creating a hyperlink. You will need to pass it a href attribute with a link address to make this work
 - `<img>`: The image tag displays images from a source.
+
+NOTE: you need to provide the attribute href for <a> tags and src for <img> tags. More of this later.
 
 NOTE: you need to provide the attribute href for <a> tags and src for <img> tags. More of this later.
 
@@ -84,6 +92,8 @@ NOTE: you need to provide the attribute href for <a> tags and src for <img> tags
 
 NOTE: Once I start the my lesson on REST i'll revisit forms as it is a important topic that I'm just briefly going over here.
 
+NOTE: Once I start the my lesson on REST i'll revisit forms as it is a important topic that I'm just briefly going over here.
+
 ### Table Tags:
 
 - `<table>`: This tag creates that table element and houses all of its contents
@@ -97,12 +107,16 @@ NOTE: Once I start the my lesson on REST i'll revisit forms as it is a important
 
 NOTE: Tables are not really used that much any more, however, it's used a lot for email templates.
 
+NOTE: Tables are not really used that much any more, however, it's used a lot for email templates.
+
 ### HTML5 tags:
 
 - `<header>`: defines a area for where the header content should go
 - `<footer>`: defines a area for where the footer content should go
 - `<main>`: defines a area for where the main content should go
 - `<section>`: used to logically break up the website into sections
+
+NOTE: HTML5 is the latest addition to the html family, they are mostly used to break up / organize your mark up in a more descriptive way. For example i can use a <section> inside of a <div> tag to better mark up my website in a more logical way.
 
 NOTE: HTML5 is the latest addition to the html family, they are mostly used to break up / organize your mark up in a more descriptive way. For example i can use a <section> inside of a <div> tag to better mark up my website in a more logical way.
 
@@ -115,6 +129,8 @@ NOTE: HTML5 is the latest addition to the html family, they are mostly used to b
 - `class`: defines a class name for your element.
 - `style`: provides an area for inline styling.
 - `title`: specifies extra information about the element. Appears as tool tips.
+
+NOTE: not all attributes are available for every tag.
 
 NOTE: not all attributes are available for every tag.
 
@@ -131,6 +147,9 @@ The above list is not an exhaustive list of html tags and attributes, they are j
 ## Challenges:
 
 1. follow the below designs and create a skeleton
+
+<img src="./playground/designs.png" width="500"/>
+
 2. add classes to your elements per the design
 3. use the provided style sheet in the playgrounds folder and link it to your html file.
 
